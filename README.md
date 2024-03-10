@@ -1,3 +1,6 @@
+ ### APP DEMO WITH SDK
+ [Github repo](https://github.com/Turbo1337GS/Chatbot-UI-with-SDK)
+
 Hello this is template web app, for my GigAI NLP models etc!
 
 U can look to docs in (https://main.gigasoft.com.pl/m/API_DOCS) or the demo in https://main.gigasoft.com.pl/AI/AI (GigAI v1 is free in the web)
